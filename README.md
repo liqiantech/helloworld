@@ -1,4 +1,4 @@
 # helloworld
 Just try to edit something.
 
-with https
+1. With https, password needed for the first commit.
