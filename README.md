@@ -12,5 +12,5 @@ I guess I should come up with a subject, so that it may turn out to be a whole p
 
 Couldn't think of anything. I want to keep this artile useless. Such weird thoughts. Maybe talking to myself is a fine idea.
 
-Recently I read the book Hongloumeng, or "Dream of the red chamber" as I remember. As people can see, the book isn't complete, such a pity. Or is it? I don't know. It make a point at several place that things are always not perfect. Maybe it means to be not complete. After all, it's one of the best despite the incompleteness. Pursuing perfect is good, but it doesn't have to be the result.
+Recently I read the book Hongloumeng, or "Dream of the red chamber" as I remember. As people can see, the book isn't complete, such a pity. Or is it? I don't know. It make a point at several place that things are always not perfect. Maybe it means to be not complete. After all, it's one of the best despite the incompleteness. Pursuing perfect is good, but it doesn't have to be the result. Just be grateful for what you have, or what is left.
 
