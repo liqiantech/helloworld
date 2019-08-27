@@ -17,3 +17,5 @@ Recently I read the book Hongloumeng, or "Dream of the red chamber" as I remembe
 Suddenly I realized how amazing language is. Human thoughts is very complicated, yet it can be written by words, spoken by voice. On the other hand, human thoughts can be so complicated due to language. In fact, I'm very curious what will a man think if he doesn't have language skill. Essentially speaking is just making specific sound, and words is a way to represent this sound. After a few sentence, I already found that it's difficult to express my opinion about language since I'm not good at this language I'm using. Interesting.
 
 Human is small in the universe, but also a miracle, for its existence, and what human can do.
+
+Today is very hot, 36°C! OK, maybe not exclamation hot. Hopefuly this will be the hottest day in the rest of this year. According to weather forecast, the high temperature will be 27°C the day after tomorrow. Tomorrow will by rainy. That's it. Just talk about weather.
