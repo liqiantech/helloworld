@@ -19,3 +19,5 @@ Suddenly I realized how amazing language is. Human thoughts is very complicated,
 Human is small in the universe, but also a miracle, for its existence, and what human can do.
 
 Today is very hot, 36°C! OK, maybe not exclamation hot. Hopefuly this will be the hottest day in the rest of this year. According to weather forecast, the high temperature will be 27°C the day after tomorrow. Tomorrow will by rainy. That's it. Just talk about weather.
+
+Today is just like yesterday, and the day before yesterday, and the day before that. The more simlar each day is, the faster time flows. Maybe there is a way to live differently, but I can't find it. 
