@@ -21,3 +21,5 @@ Human is small in the universe, but also a miracle, for its existence, and what 
 Today is very hot, 36°C! OK, maybe not exclamation hot. Hopefuly this will be the hottest day in the rest of this year. According to weather forecast, the high temperature will be 27°C the day after tomorrow. Tomorrow will by rainy. That's it. Just talk about weather.
 
 Today is just like yesterday, and the day before yesterday, and the day before that. The more simlar each day is, the faster time flows. Maybe there is a way to live differently, but I can't find it. 
+
+I have a whole new plan for the next few years. I began my career as a developer after graduating from college, but my major was not related. Now I want to make up to it. The new plan is starting to learn computer science. This alone could takes several years, but slow is better than never. I believe after this, I should know better how computers and programs work, and how the code I write day to day works behind the scene. Let's look forward to it.
