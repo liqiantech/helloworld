@@ -22,3 +22,6 @@ Today is very hot, 36°C! OK, maybe not exclamation hot. Hopefully, this will be
 Today is just like yesterday, and the day before yesterday, and the day before that. The more similar each day is the faster time flows. Maybe there is a way to live differently, but I can't find it.
 
 I have a whole new plan for the next few years. I began my career as a developer after graduating from college, but my major was not related. Now I want to make up to it. The new plan is starting to learn computer science. This alone could take several years, but slow is better than never. I believe after this, I should know better how computers and programs work, and how the code I write day to day works behind the scene. Let's look forward to it.
+
+Suddenly I realized when I was writing, I didn't care too much about grammar. I watched a lot of English movies and tvs, and read a lot of English articles, and now I just write anything comes to my mind. This is not a 100% good thing. Since I haven't been trained systematically, my words could fall into a situation of caos, thus can't be used to express my thoughts accurately. 
+
