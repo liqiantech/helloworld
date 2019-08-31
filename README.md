@@ -25,3 +25,5 @@ I have a whole new plan for the next few years. I began my career as a developer
 
 Suddenly I realized when I was writing, I didn't care too much about grammar. I watched a lot of English movies and tvs, and read a lot of English articles, and now I just write anything comes to my mind. This is not a 100% good thing. Since I haven't been trained systematically, my words could fall into a situation of caos, thus can't be used to express my thoughts accurately. 
 
+Editting on my ipad. Today is my first day training for driver's license. Interesting and tired. nothing else. Tomorrow I will rest, but not because of me. Somehow I didn't get arranged.
+
