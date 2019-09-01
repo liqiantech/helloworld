@@ -6,7 +6,7 @@ I find out that this is a good place for daily check-in. Nothing important, just
 
 I plan to watch a git course, but the course is a little hard and boring, so my mind keeps wandering off. When something like this happens, I tend to blame the teacher. I know this is not right. OK, back to course.
 
-Confession: At first, I build this project out of tradition. There is nothing wrong with that. But then, I take advantage of the invisibility of this hello-world project, to commit some useless modification, to make the "GitHub commit wall" look good. I feel like cheating. So sorry. What's more "sorryable" is that I will continue this behavior. How hopeless I am. I hope this ends well. Maybe it will. Maybe it never ends.
+Confession: At first, I build this project out of tradition. There is nothing wrong with that. But then, I take advantage of the invisibility of this hello-world project, to commit some useless modification, to make the "GitHub commit wall" look good. I feel like cheating. So sorry. What's more "sorry-able" is that I will continue this behavior. How hopeless I am. I hope this ends well. Maybe it will. Maybe it never ends.
 
 I guess I should come up with a subject, so that it may turn out to be a whole passage, even though I only write one paragraph/sentence each day. Maybe something technique related, like the history of the computer, or how does the Internet work. Wow, that's so big. I probably won't be able to talk it through. Thinking ...
 
@@ -23,7 +23,8 @@ Today is just like yesterday, and the day before yesterday, and the day before t
 
 I have a whole new plan for the next few years. I began my career as a developer after graduating from college, but my major was not related. Now I want to make up to it. The new plan is starting to learn computer science. This alone could take several years, but slow is better than never. I believe after this, I should know better how computers and programs work, and how the code I write day to day works behind the scene. Let's look forward to it.
 
-Suddenly I realized when I was writing, I didn't care too much about grammar. I watched a lot of English movies and tvs, and read a lot of English articles, and now I just write anything comes to my mind. This is not a 100% good thing. Since I haven't been trained systematically, my words could fall into a situation of caos, thus can't be used to express my thoughts accurately. 
+Suddenly I realized when I was writing, I didn't care too much about grammar. I watched a lot of English movies and TVs, and read a lot of English articles, and now I just write anything comes to my mind. This is not a 100% good thing. Since I haven't been trained systematically, my words could fall into a situation of chaos, thus can't be used to express my thoughts accurately. 
 
-Editting on my ipad. Today is my first day training for driver's license. Interesting and tired. nothing else. Tomorrow I will rest, but not because of me. Somehow I didn't get arranged.
+Editing on my iPad. Today is my first-day training for driver's license. Interesting and tired. nothing else. Tomorrow I will rest, but not because of me. Somehow I didn't get arranged.
 
+Raining.
