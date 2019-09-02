@@ -28,3 +28,5 @@ Suddenly I realized when I was writing, I didn't care too much about grammar. I 
 Editing on my iPad. Today is my first-day training for driver's license. Interesting and tired. nothing else. Tomorrow I will rest, but not because of me. Somehow I didn't get arranged.
 
 Raining.
+
+There is still no main line to follow. But I decide to write down as much as I can, so that I have a way to know what I am actually doing day to day. Not here, though, this is supposed to be a private thing. While I am lost, time flies much faster than it normally do. I need to follow some rules, and rules are better be written on somewhere. I am going to find a place now.
