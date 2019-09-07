@@ -4,4 +4,4 @@ It's nice to get the chance to say hello. But there probably won't be a chance t
 
 ## Emojis
 
-:cloud: :cloud: :sun_behind_large_cloud: :cloud_with_rain: 
+:cloud: :cloud: :sun_behind_large_cloud: :cloud_with_rain: :sun_behind_small_cloud:
