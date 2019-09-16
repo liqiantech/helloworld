@@ -15,3 +15,4 @@ It's nice to get the chance to say hello. But there probably won't be a chance t
 :cloud:
 :sun_behind_small_cloud:
 :sun_behind_large_cloud:
+:sunny:
