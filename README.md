@@ -7,7 +7,7 @@ It's nice to get the chance to say hello. But there probably won't be a chance t
 | M | T | W | T | F | S | S |
 |---|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|
-|---|---|---|---| :cloud: |---|---|
+|---|---|---|---| :cloud: | :cloud: |---|
 
 
 ### September
